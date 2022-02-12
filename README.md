@@ -1,10 +1,10 @@
 # Cyber security Internship Notes
 
 
-Owasp top 10(2021) [3 internship lecture]<br>
-web application security 
+#Owasp top 10(2021) [3 internship lecture]<br>
+#web application security 
 
-Vapt Methodology 
+#VAPT Methodology 
 
 1)Info gathering<br>
 2)Threat modeling<br>
@@ -15,7 +15,7 @@ Vapt Methodology
 
 
 
-Web App Attack Types<br>
+#Web App Attack Types<br>
 malware<br>
 phishing<br>
 Sql injection<br>
