@@ -9,9 +9,9 @@
 1)Info gathering<br>
 2)Threat modeling<br>
 3)Vul Analyasis<br>
-4)Exploitsion<br>
+4)Exploition<br>
 5)Post exploitaion<br>
-6)Post exploitaion<br>
+6)Reporting<br>
 
 
 
