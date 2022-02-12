@@ -1,4 +1,4 @@
-# Cyber-sec-Notes
+# Cyber security Internship Notes
 
 
 Owasp top 10(2021) [3 internship lecture]
