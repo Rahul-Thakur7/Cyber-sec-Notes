@@ -6,20 +6,20 @@ web application security
 
 Vapt Methodology 
 
-1)Info gathering
-2)Threat modeling
-3)Vul Analyasis
-4)Exploitsion
-5)Post exploitaion
-6)Post exploitaion
+1)Info gathering<br>
+2)Threat modeling<br>
+3)Vul Analyasis<br>
+4)Exploitsion<br>
+5)Post exploitaion<br>
+6)Post exploitaion<br>
 
 
 
-Web App Attack Types
-malware
-phishing
-Sql injection
-XSS
-DDOS DOS
-Session hijecking & MIMA
-Credential reuse
+Web App Attack Types<br>
+malware<br>
+phishing<br>
+Sql injection<br>
+XSS<br>
+DOS<br>
+Session hijecking & MIMA<br>
+Credential reuse<br>
